@@ -8,4 +8,4 @@ Installing:
 
 To install this project, simply clone the repository to your local machine using Git:
 
-git clone https://github.com/username/project-name.git
+git clone https://github.com/Kumar-Rishav-py/Split_wise.git
